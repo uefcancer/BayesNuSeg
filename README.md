@@ -1,5 +1,21 @@
 # BayesNuSeg
 
-This is the official repository for the paper titled "Nuclei instance segmentation from histopathology images using Bayesian dropout based deep learning".
+This repository provides the code for the paper titled "Nuclei instance segmentation from histopathology images using Bayesian dropout based deep learning".
 
-We are currently under the process of filtering the code snipets to reproduce our results. Feel free to contact us or rise a github issue. we share the codes, please remember the codes might be raw format, and have to comment much of the code or replace.   
+## Overview
+
+
+
+## Usage
+
+
+
+Contact
+For any questions or further information, please contact hamid.behravan@uef.fi.
+
+License: CC BY-NC 4.0
+
+
+## Citation
+Please cite the following work:
+Gudhe, N. R., Kosma, V. M., Behravan, H., & Mannermaa, A. (2023). Nuclei instance segmentation from histopathology images using Bayesian dropout based deep learning. BMC Medical Imaging, 23(1), 162.
